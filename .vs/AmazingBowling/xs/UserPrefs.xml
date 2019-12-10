@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{00E88B9A-B836-232E-BE02-0056B3757CD4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ShotterRotator.cs">
+    <Files>
+      <File FileName="Assets/ShotterRotator.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AmazingBowling" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ShotterRotator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cc3dfde5-37de-4779-96df-1f7b0f38fa3e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
